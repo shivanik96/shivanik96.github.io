@@ -1,0 +1,49 @@
+I"q<h1 class="hidden" id="experience">Experience</h1>
+
+<h3 class="talk-title" id="postdoctoral-research-fellow">Postdoctoral Research Fellow</h3>
+
+<div class="talk">
+  University of Michigan, <span class="city">Ann Arbor</span><br />
+  Advisor - Dr. David Jurgens<br />
+  
+  <span class="extra-links">
+  Topic - Culture, morals and LLMs
+  </span>
+
+  <!-- <span class="extra-links">
+    
+
+    
+
+    
+  </span> -->
+
+  <time datetime="2024-05-15">
+    May 2024 - Present
+  </time>
+</div>
+
+<h3 class="talk-title" id="phd-intern">PhD Intern</h3>
+
+<div class="talk">
+  Adobe, <span class="city">Noida, India</span><br />
+  Advisor - Dr. Sumit Bhatia, Milan Aggarwal<br />
+  
+  <span class="extra-links">
+  Topic - Dialogue Foundation Model
+  </span>
+
+  <!-- <span class="extra-links">
+    
+
+    
+
+    
+  </span> -->
+
+  <time datetime="2023-01-15">
+    Jan 2023 - Jun 2023
+  </time>
+</div>
+
+:ET

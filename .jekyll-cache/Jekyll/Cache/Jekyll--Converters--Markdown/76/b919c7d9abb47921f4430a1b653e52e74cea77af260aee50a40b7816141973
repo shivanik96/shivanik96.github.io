@@ -1,0 +1,2 @@
+I"Ÿ<p>During my internship at Google in NYC during the summer of 2014, I implemented a new out-of-core join and aggregation operators for a large-scale time series database inside Monarch. Monarch processes production monitoring data from various systems at Google. <br /><br /> Not much about this system is public but there is a <a href="https://vimeo.com/173607638">talk from John Banning about the system</a>.</p>
+:ET

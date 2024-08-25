@@ -1,0 +1,20 @@
+{% assign current = page.url | downcase | split: '/' %}
+<header class="page-header">
+  <nav class="container">
+    <a class="site-title" href="{{ absolute_url }}/">{{ site.title }}</a>
+
+    <!-- <a href="{{ '/projects/' | relative_url }}" {% if current[1] == 'projects' %}aria-current="page" {% endif %}>Projects</a> -->
+    <a href="{{ '/publications/' | relative_url }}" {% if current[1] == 'publications' %}aria-current="page"{% endif %}>Publications</a>
+    <a href="{{ '/experience/' | relative_url }}" {% if current[1] == 'experience' %}aria-current="page"{% endif %}>Experience</a>
+    <a href="{{ '/teaching/' | relative_url }}" {% if current[1] == 'teaching' %}aria-current="page"{% endif %}>Teaching</a>
+    <!-- <a href="{{ '/talks/' | relative_url }}" {% if current[1] == 'talks' %}aria-current="page"{% endif %}>Talks</a> -->
+    <!-- <a href="{{ '/blog/' | relative_url }}" {% if current[1] == 'blog' %}aria-current="page"{% endif %}>Blog</a> -->
+    <a href="{{ '/cv/' | relative_url }}" {% if current[1] == 'cv' %}aria-current="page"{% endif %}>CV</a>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+
+    <span class="external">
+      <!-- <a rel="me" href="https://vis.social/@dom"><i class="fab fa-mastodon" aria-hidden="true"></i> Mastodon</a>
+      <a href="https://github.com/shivanik96"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a> -->
+    </span>
+  </nav>
+</header>

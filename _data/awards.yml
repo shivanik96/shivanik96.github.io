@@ -1,0 +1,12 @@
+- name: Travel grants from Microsoft and ACM-Women.
+  years: 2023
+  description: "Travel grants to support travel to Singapore for EMNLP 2023."
+- name: Travel grants from Google, Microsoft, and ACM-India/IARCS.
+  years: 2022
+  description: "Travel grants to support travel to Dublin, Ireland for ACL 2022."
+- name: Junior Research Fellowship (JRF) from University Grants Commission (UGC), India.
+  years: 2019
+  description: "Qualified UGC-NET (National Eligibility Test)"
+- name: Certificate of Merit awarded by Shaheed Sukhdev College of Business Studies.
+  years: 2017
+  description: "for securing 2nd position in college in B.Sc.(H) Computer Science."

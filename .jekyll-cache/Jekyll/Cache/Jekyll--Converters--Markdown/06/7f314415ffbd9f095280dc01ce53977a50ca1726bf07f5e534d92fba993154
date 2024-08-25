@@ -1,0 +1,343 @@
+I"(<h1 id="hi-im-shivani-kumar">Hi, I’m Shivani Kumar</h1>
+
+<div class="columns">
+
+  <div class="intro">
+
+    <p>I’m a Postdoctoral Research Fellow at the <a href="https://blablablab.si.umich.edu/">BlaBlaBlab</a> at <a href="https://umich.edu/">University of Michigan</a>, where I am working with <a href="https://jurgens.people.si.umich.edu/">Dr.   David Jurgens</a> on culturally enriched and morally refined language models. I completed my PhD from the <a href="https://lcs2.in/">LCS2 Lab</a>, advised by <a href="https://www.tanmoychak.com/">Dr. Tanmoy Chakraborty</a>, from <a href="https://www.iiitd.ac.in/">IIITD</a>, before which I had completed my masters (M.Sc.) and bachelors (B.Sc.) from <a href="https://www.du.ac.in/">University of Delhi</a>.</p>
+
+    <p>During my PhD, I worked in the are of conversational AI, exploring the emotional nuances of dialogue — capturing everything from emotions, humour, and sarcasm to the unique essence of each speaker.</p>
+
+    <!-- In my PhD, I worked in the area of conversational AI, with a focus on affective traits of the dialogue, such as emotions, humour, sarcasm, and speaker profile. -->
+
+    <!-- During my PhD, I interned at the MDSR lab at [Adobe Systems](https://www.adobe.com/) under the mentorship of [Dr. Sumit Bhatia](https://scholar.google.com/citations?user=8HVTWNkAAAAJ&hl=en&oi=ao) and [Mr. Milan Aggarwal](https://scholar.google.com/citations?user=YiMNG_QAAAAJ&hl=en), where I worked on creating a dialogue specific foundational model. -->
+
+  </div>
+
+  <div class="me">
+    <picture>
+  <source srcset="/images/shivani.jpg" type="image/webp" />
+  <img src="/images/shivani.jpg" alt="Shivani Kumar" />
+</picture>
+
+    <ul class="no-list">
+      <li><a href="mailto:kshivan@umich.edu">kshivan@umich.edu</a></li>
+      <li><a href="https://www.linkedin.com/in/shivani-kumar-033780166" target="_blank"> <i class="fa-brands fa-linkedin"></i> </a> <a href="https://scholar.google.com/citations?user=pkUmpskAAAAJ&amp;hl=en&amp;authuser=2" target="_blank"> <i class="ai ai-google-scholar-square ai-1x"></i> </a> <a href="https://github.com/shivanik96" target="_blank"> <i class="fa-brands fa-github"></i> </a> <a href="https://x.com/Shivani_220" target="_blank"> <i class="fa-brands fa-twitter"></i> </a></li>
+    </ul>
+  </div>
+
+</div>
+
+<!-- 
+## Featured <a href="/projects/">Projects</a>
+
+<div class="featured-projects">
+  
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+      <div class="project">
+  <span class="title">Draco</span>
+  
+    <a href="https://uwdata.github.io/draco" class="preview-image" style="background-image: url('/images/projects/draco.jpg')"></a>
+  
+  <p>
+    I created Draco, a formal model of visualization design with shareable design guidelines, formal reasoning over the design space, and visualization recommendation.
+
+  </p>
+  <div class="spacer"></div>
+  <div class="links">
+    
+      <a href="https://medium.com/@uwdata/64ce20287e9d"><i class="fas fa-newspaper" aria-hidden="true"></i> Post</a>
+    
+    
+    
+      <a href="https://uwdata.github.io/draco"><i class="fas fa-link" aria-hidden="true" aria-hidden="true"></i> Website</a>
+    
+    
+      <a href="https://github.com/uwdata/draco"><i class="fab fa-github" aria-hidden="true" aria-hidden="true"></i> Code</a>
+    
+    
+      <a href="/papers/2018-Draco-InfoVis.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Paper</a>
+    
+    
+    
+      <a href="https://vimeo.com/308980888"><i class="fas fa-video" aria-hidden="true"></i> Recording</a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      <div class="project">
+  <span class="title">Mosaic</span>
+  
+    <a href="https://uwdata.github.io/mosaic/" class="preview-image" style="background-image: url('/images/projects/mosaic.png')"></a>
+  
+  <p>
+    Mosaic is an extensible framework for linking databases and interactive views.
+
+  </p>
+  <div class="spacer"></div>
+  <div class="links">
+    
+    
+    
+      <a href="https://uwdata.github.io/mosaic/"><i class="fas fa-link" aria-hidden="true" aria-hidden="true"></i> Website</a>
+    
+    
+      <a href="https://github.com/uwdata/mosaic"><i class="fab fa-github" aria-hidden="true" aria-hidden="true"></i> Code</a>
+    
+    
+      <a href="https://www.domoritz.de/papers/2023-Mosaic-VIS.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Paper</a>
+    
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      <div class="project">
+  <span class="title">Vega-Lite</span>
+  
+    <a href="https://vega.github.io/vega-lite" class="preview-image" style="background-image: url('/images/projects/vl.jpg')"></a>
+  
+  <p>
+    I am the co-author of Vega-Lite, a high-level visualization grammar for rapid specification of interactive, multi-view graphics.
+
+  </p>
+  <div class="spacer"></div>
+  <div class="links">
+    
+    
+      <a href="https://vega.github.io/editor/#/examples/vega-lite/interactive_seattle_weather"><i class="fas fa-play" aria-hidden="true"></i> Demo</a>
+    
+    
+      <a href="https://vega.github.io/vega-lite"><i class="fas fa-link" aria-hidden="true" aria-hidden="true"></i> Website</a>
+    
+    
+      <a href="https://github.com/vega/vega-lite"><i class="fab fa-github" aria-hidden="true" aria-hidden="true"></i> Code</a>
+    
+    
+      <a href="/papers/2017-VegaLite-InfoVis.pdf"><i class="far fa-file-pdf" aria-hidden="true"></i> Paper</a>
+    
+    
+    
+      <a href="https://www.youtube.com/watch?v=9uaHRWj04D4"><i class="fas fa-video" aria-hidden="true"></i> Recording</a>
+    
+  </div>
+</div>
+
+    
+  
+    
+      <div class="project">
+  <span class="title">Swift Charts</span>
+  
+    <a href="https://developer.apple.com/documentation/Charts" class="preview-image" style="background-image: url('/images/projects/swiftcharts.png')"></a>
+  
+  <p>
+    Swift Charts is a framework for informative, delightful, and accessible charts on Apple’s platforms.
+
+  </p>
+  <div class="spacer"></div>
+  <div class="links">
+    
+    
+    
+      <a href="https://developer.apple.com/documentation/Charts"><i class="fas fa-link" aria-hidden="true" aria-hidden="true"></i> Website</a>
+    
+    
+    
+    
+      <a href="https://developer.apple.com/wwdc22/10136"><i class="fas fa-film" aria-hidden="true"></i> Video</a>
+    
+    
+  </div>
+</div>
+
+    
+  
+</div>
+
+<a href="/projects/" class="button">
+  <i class="fas fa-chevron-circle-right"></i>
+  Show More Projects
+</a>
+
+## Featured <a href="/publications/">Publications</a>
+
+<div class="featured-publications">
+  
+  
+    
+      <a href="https://arxiv.org/pdf/2307.07255" class="publication">
+        <strong>Dialogue Agents 101: A Beginner’s Guide to Critical Ingredients for Designing Effective Conversational Systems</strong>
+        <span class="authors">Shivani Kumar, Sumit Bhatia, Milan Aggarwal, Tanmoy Chakraborty</span>.
+        <i>Natural Language Engineering, 2024</i>.
+        
+      </a>
+    
+  
+    
+  
+    
+      <a href="https://aclanthology.org/2024.lrec-main.37.pdf" class="publication">
+        <strong>Adding SPICE to Life: Speaker Profiling in Multiparty Conversations</strong>
+        <span class="authors">Shivani Kumar, Rishabh Gupta, Md Shad Akhtar, Tanmoy Chakraborty</span>.
+        <i>LREC-COLING, 2024</i>.
+        
+      </a>
+    
+  
+    
+  
+    
+  
+    
+      <a href="https://aclanthology.org/2024.findings-eacl.44.pdf" class="publication">
+        <strong>Harmonizing Code-mixed Conversations: Personality-assisted Code-mixed Response Generation in Dialogues</strong>
+        <span class="authors">Shivani Kumar, Tanmoy Chakraborty</span>.
+        <i>EACL, 2024</i>.
+        
+      </a>
+    
+  
+    
+      <a href="https://ieeexplore.ieee.org/document/10164178" class="publication">
+        <strong>Emotion Flip Reasoning in Multiparty Conversations</strong>
+        <span class="authors">Shivani Kumar, Shubham Dudeja, Md Shad Akhtar, Tanmoy Chakraborty</span>.
+        <i>IEEE Transactions on Artificial Intelligence, 2023</i>.
+        
+      </a>
+    
+  
+    
+      <a href="https://ojs.aaai.org/index.php/AAAI/article/view/26526" class="publication">
+        <strong>Explaining (Sarcastic) Utterances to Enhance Affect Understanding in Multimodal Dialogues</strong>
+        <span class="authors">Shivani Kumar, Ishani Mondal, Md Shad Akhtar, Tanmoy Chakraborty</span>.
+        <i>AAAI, 2023</i>.
+        
+      </a>
+    
+  
+    
+      <a href="https://aclanthology.org/2023.emnlp-main.598" class="publication">
+        <strong>From Multilingual Complexity to Emotional Clarity: Leveraging Commonsense to Unveil Emotions in Code-Mixed Dialogues</strong>
+        <span class="authors">Shivani Kumar, Ramaneswaran S, Md Shad Akhtar, Tanmoy Chakraborty</span>.
+        <i>EMNLP, 2023</i>.
+        
+      </a>
+    
+  
+    
+      <a href="https://aclanthology.org/2022.acl-long.411/" class="publication">
+        <strong>When did you become so smart, oh wise one?! Sarcasm Explanation in Multi-modal Multi-party Dialogues</strong>
+        <span class="authors">Shivani Kumar, Atharva Kulkarni, Md Shad Akhtar, Tanmoy Chakraborty</span>.
+        <i>ACL, 2022</i>.
+        
+      </a>
+    
+  
+    
+      <a href="https://www.sciencedirect.com/science/article/pii/S0950705121011709" class="publication">
+        <strong>Discovering emotion and reasoning its flip in multi-party conversations using masked memory network and transformer</strong>
+        <span class="authors">Shivani Kumar, Anubhav Shrimal, Md Shad Akhtar, Tanmoy Chakraborty</span>.
+        <i>Knowledge-Based Systems, 2022</i>.
+        
+      </a>
+    
+  
+    
+      <a href="https://ieeexplore.ieee.org/abstract/document/9442359" class="publication">
+        <strong>Multi-Modal Sarcasm Detection and Humor Classification in Code-Mixed Conversations</strong>
+        <span class="authors">Manjot Bedi, Shivani Kumar, Md Shad Akhtar, Tanmoy Chakraborty</span>.
+        <i>IEEE Transactions on Affective Computing, 2021</i>.
+        
+      </a>
+    
+  
+</div>
+
+<a href="/publications/" class="button">
+  <i class="fas fa-chevron-circle-right"></i>
+  Show All Publications
+</a>
+ -->
+:ET

@@ -1,0 +1,44 @@
+---
+layout: publication
+authors:
+  - Priyadarshini Rai
+  - Atishay Jain
+  - Shivani Kumar
+  - Divya Sharma
+  - Neha Jha
+  - Smriti Chawla
+  - Abhijit Raj
+  - Apoorva Gupta
+  - Sarita Poonia
+  - Angshul Majumdar
+  - Tanmoy Chakraborty
+  - Gaurav Ahuja
+  - Debarka Sengupta
+<!-- awards:
+  - Invited to SIGGRAPH 2016 -->
+highlight: false
+link: https://github.com/Priyadarshini-Rai/Pathomap-Model
+pdf: https://academic.oup.com/bioinformatics/article/40/4/btae185/7645045
+<!-- short_doi: 10/bdsz -->
+tags:
+  - Literature mining discerns latent disease–gene relationships
+title: "Literature mining discerns latent disease–gene relationships"
+<!-- tweet: Visualization recommendation promotes breadth and prevents early fixation. -->
+type:
+  - Journal
+venue: Bioinformatics
+venue_tags:
+  - Bioinformatics
+<!-- venue_url: http://ieeevis.org/ -->
+<!-- video: https://vimeo.com/135417594 -->
+year: 2024
+---
+
+Motivation
+Dysregulation of a gene’s function, either due to mutations or impairments in regulatory networks, often triggers pathological states in the affected tissue. Comprehensive mapping of these apparent gene–pathology relationships is an ever-daunting task, primarily due to genetic pleiotropy and lack of suitable computational approaches. With the advent of high throughput genomics platforms and community scale initiatives such as the Human Cell Landscape project, researchers have been able to create gene expression portraits of healthy tissues resolved at the level of single cells. However, a similar wealth of knowledge is currently not at our finger-tip when it comes to diseases. This is because the genetic manifestation of a disease is often quite diverse and is confounded by several clinical and demographic covariates.
+
+Results
+To circumvent this, we mined ∼18 million PubMed abstracts published till May 2019 and automatically selected ∼4.5 million of them that describe roles of particular genes in disease pathogenesis. Further, we fine-tuned the pretrained bidirectional encoder representations from transformers (BERT) for language modeling from the domain of natural language processing to learn vector representation of entities such as genes, diseases, tissues, cell-types, etc., in a way such that their relationship is preserved in a vector space. The repurposed BERT predicted disease–gene associations that are not cited in the training data, thereby highlighting the feasibility of in silico synthesis of hypotheses linking different biological entities such as genes and conditions.
+
+Availability and implementation
+PathoBERT pretrained model: https://github.com/Priyadarshini-Rai/Pathomap-Model. BioSentVec-based abstract classification model: https://github.com/Priyadarshini-Rai/Pathomap-Model. Pathomap R package: https://github.com/Priyadarshini-Rai/Pathomap.

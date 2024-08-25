@@ -1,0 +1,23 @@
+- university: Indraprastha Institute of Information Technology, Delhi
+  years: 2019-2024
+  degree: Ph.D. in Computer Science & Engineering
+  location: Delhi, India
+  description:
+    - Advised by **Dr. Tanmoy Chakraborty**.
+    - "Thesis: \"Understanding and Explaining Affective Traits in English and Codemixed Conversations\"."
+    - Member of the LCS2 Lab.
+- university: University of Delhi
+  years: 2017-2019
+  degree: M.Sc. in Computer Science
+  location: Delhi, India
+  description:
+    - Advised by **Dr. Vasudha Bhatnagar**.
+    - "Thesis: \"Building a Concept Map of a Book\"."
+- university: University of Delhi
+  years: 2014-2017
+  degree: B.Sc. in Computer Science
+  location: Delhi, India
+  # description:
+  #   - "Thesis: \"Algorithms for the Visualization of Software System Evolution\"."
+  #   - "GPA: 4.0 (1.0 in German system), highest distinction, rank 1/74"
+  #   - Advanced classes on database implementation, computational geometry, architecture, and logic.

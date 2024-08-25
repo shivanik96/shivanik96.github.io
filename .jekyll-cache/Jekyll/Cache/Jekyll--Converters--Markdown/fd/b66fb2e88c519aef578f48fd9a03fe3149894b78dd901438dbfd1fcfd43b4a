@@ -1,0 +1,2 @@
+I"û<p>For a class project, I extracted 500k labeled images of figures from roughly 1M papers. For each image I created a mask that shows where the text in the image is. I then used the images to train a neural network that would find text in images.</p>
+:ET

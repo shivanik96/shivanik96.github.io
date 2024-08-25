@@ -1,0 +1,29 @@
+# Site settings
+title: Shivani Kumar
+email: kshivan@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+   Postdoctoral Research Fellow at University of Michigan. PhD from IIITD, India. I try to make chatbots understand more.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.shivani.in" # the base hostname & protocol for your site
+production_url: "https://www.shivani.in"
+github_username: shivanik96
+permalink: /blog/:year/:month/:title.html
+
+twitter:
+  username: Shivani_220
+
+sass:
+  style: compressed
+
+collections:
+  publications:
+    output: false
+
+jekyll-mentions:
+  base_url: https://twitter.com
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-mentions
