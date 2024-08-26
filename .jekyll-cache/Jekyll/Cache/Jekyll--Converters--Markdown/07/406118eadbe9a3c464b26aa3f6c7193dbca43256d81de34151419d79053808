@@ -1,2 +1,0 @@
-I"<p>I maintain a tool to generate JSON schema from Typescript code. The tool uses the TypeScript compiler to parse into an AST and then generates an equivalent JSON schema. We use this tool to generate the <a href="https://github.com/vega/schema/">schema for Vega-Lite</a>.</p>
-:ET

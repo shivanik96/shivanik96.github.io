@@ -10,10 +10,10 @@ class: home
 
 <div class="intro" markdown="1">
 
-I'm a Postdoctoral Research Fellow at the [BlaBlaBlab](https://blablablab.si.umich.edu/) at [University of Michigan](https://umich.edu/), where I am working with [Dr.   David Jurgens](https://jurgens.people.si.umich.edu/) on culturally enriched and morally refined language models. I completed my PhD from the [LCS2 Lab](https://lcs2.in/), advised by [Dr. Tanmoy Chakraborty](https://www.tanmoychak.com/), from [IIITD](https://www.iiitd.ac.in/), before which I had completed my masters (M.Sc.) and bachelors (B.Sc.) from [University of Delhi](https://www.du.ac.in/).
+I'm a Postdoctoral Research Fellow at the <a href="https://blablablab.si.umich.edu/" target="_blank">BlaBlaBlab</a> at <a href="https://umich.edu/" target="_blank">University of Michigan</a>, where I am working with <a href="https://jurgens.people.si.umich.edu/" target="_blank">Prof David Jurgens</a> on culturally enriched and morally refined language models. I completed my PhD from the <a href="https://lcs2.in/" target="_blank">LCS2 Lab</a>, advised by <a href="https://www.tanmoychak.com/" target="_blank">Prof Tanmoy Chakraborty</a>, from <a href="https://www.iiitd.ac.in/" target="_blank">IIITD</a>, before which I had completed my masters (M.Sc.) and bachelors (B.Sc.) from <a href="https://www.du.ac.in/" target="_blank">University of Delhi</a>.
 
 
-During my PhD, I worked in the area of conversational AI, exploring the lucidity of dialogues — capturing everything from emotions, humour, and sarcasm to the unique essence of each speaker.
+For my <a href="https://repository.iiitd.edu.in/xmlui/handle/123456789/1389" target="_blank">PhD thesis <i class="fa-solid fa-book"></i></a> I worked in the area of conversational AI, exploring the lucidity of dialogues — capturing everything from emotions, humour, and sarcasm to the unique essence of each speaker . 
 
 <!-- In my PhD, I worked in the area of conversational AI, with a focus on affective traits of the dialogue, such as emotions, humour, sarcasm, and speaker profile. -->
 
@@ -37,8 +37,8 @@ During my PhD, I worked in the area of conversational AI, exploring the lucidity
 </div>
 
 
-<!-- 
-## Featured <a href="{{ "/projects/" | relative_url }}">Projects</a>
+
+## News and Highlights
 
 <div class="featured-projects">
   {% assign sorted_projects = site.data.projects | sort: 'highlight' %}
@@ -49,11 +49,7 @@ During my PhD, I worked in the area of conversational AI, exploring the lucidity
   {% endfor %}
 </div>
 
-<a href="{{ "/projects/" | relative_url }}" class="button">
-  <i class="fas fa-chevron-circle-right"></i>
-  Show More Projects
-</a>
-
+<!-- 
 ## Featured <a href="{{ "/publications/" | relative_url }}">Publications</a>
 
 <div class="featured-publications">

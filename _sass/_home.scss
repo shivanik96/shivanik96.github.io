@@ -52,7 +52,7 @@
   .featured-projects {
     font-size: 0.9em;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     margin-bottom: 1.5em;
 
     .project {
@@ -61,12 +61,13 @@
 
       display: flex;
       flex-direction: column;
+      margin-bottom: 0.5em;
+      
+      // &:not(:last-child) {
+      //   margin-right: 16px;
+      // }
 
-      &:not(:last-child) {
-        margin-right: 16px;
-      }
-
-      border-radius: 3px;
+      border-radius: 5px;
       padding: 16px;
       border: 1px solid #ddd;
 
