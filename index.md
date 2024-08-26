@@ -12,7 +12,8 @@ class: home
 
 I'm a Postdoctoral Research Fellow at the [BlaBlaBlab](https://blablablab.si.umich.edu/) at [University of Michigan](https://umich.edu/), where I am working with [Dr.   David Jurgens](https://jurgens.people.si.umich.edu/) on culturally enriched and morally refined language models. I completed my PhD from the [LCS2 Lab](https://lcs2.in/), advised by [Dr. Tanmoy Chakraborty](https://www.tanmoychak.com/), from [IIITD](https://www.iiitd.ac.in/), before which I had completed my masters (M.Sc.) and bachelors (B.Sc.) from [University of Delhi](https://www.du.ac.in/).
 
-During my PhD, I worked in the are of conversational AI, exploring the emotional nuances of dialogue — capturing everything from emotions, humour, and sarcasm to the unique essence of each speaker.
+
+During my PhD, I worked in the area of conversational AI, exploring the lucidity of dialogues — capturing everything from emotions, humour, and sarcasm to the unique essence of each speaker.
 
 <!-- In my PhD, I worked in the area of conversational AI, with a focus on affective traits of the dialogue, such as emotions, humour, sarcasm, and speaker profile. -->
 
