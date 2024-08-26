@@ -35,8 +35,7 @@
 </head>
 
   <body>
-    <div class="no-print" style="opacity: 0.5">
-      
+    
 <header class="page-header">
   <nav class="container">
     <a class="site-title" href="/">Shivani Kumar</a>
@@ -57,9 +56,8 @@
   </nav>
 </header>
 
-    </div>
 
-    <main id="cv">
+    <main class="page-content">
       <section class="container">
 
 <h1><a href="/">Shivani Kumar</a></h1>
@@ -81,5 +79,33 @@
 
 </embed></section>
     </main>
+
+    <footer>
+  <div class="container">
+    <div class="footer-col">
+      Hello from Ann Arbor, Michigan.<br>
+      <abbr title="Last build on 2024-08-26">August 2024</abbr>
+    </div>
+    <div class="footer-col">
+      <!-- <a href="https://github.com/domoritz/domoritz.github.io/edit/master/cv.html">Edit this page</a> -->
+    </div>
+    <div class="footer-col site-desc">Postdoctoral Research Fellow at University of Michigan. PhD from IIITD, India. I try to make chatbots understand more.
+ I'm <a href="https://twitter.com/Shivani_220">@Shivani_220</a> on Twitter.</div>
+  </div>
+</footer>
+
+    <script>
+  function trim(str) {
+    return str.replace(/^\s+|\s+$/g, '');
+  }
+  var headers = document.querySelectorAll("h2, h3, h4, h5, h6");
+  for (var i=0; i<headers.length; i++) {
+    var h = headers[i];
+    var name = h.getAttribute("id");
+    var title = h.innerHTML;
+    h.innerHTML = '<a href="#' + name + '" class="anchor"><i class="fas fa-hashtag"></i></a>' + trim(title);
+  }
+</script>
+
   </body>
 </html>
