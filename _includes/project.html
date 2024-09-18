@@ -1,12 +1,12 @@
 <div class="list">
   {% if project.type == "publication" %}
-    <b style="color: rgb(137, 43, 226);"><i class="fa-regular fa-file-lines fa-bounce"></i></b>
+    <b style="color: #DC7633;"><i class="fa-regular fa-file-lines fa-bounce"></i></b>
   {% endif %}
   {% if project.type == "news" %}
-    <b style="color: rgb(137, 43, 226);"><i class="fa-regular fa-newspaper"></i></b>
+    <b style="color: #DC7633;"><i class="fa-regular fa-newspaper"></i></b>
   {% endif %}
   {% if project.type == "award" %}
-    <b style="color: rgb(137, 43, 226);"><i class="fa-regular fa-star"></i></b>
+    <b style="color: #DC7633;"><i class="fa-regular fa-star"></i></b>
   {% endif %}
   <b style="color: #DC7633;">{{ project.date }} | </b> <span class="title">{{ project.title }}</span> 
   <!-- {% if project.url || project.code || project.article || project.paper %}
