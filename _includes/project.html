@@ -1,5 +1,14 @@
 <div class="list">
-  <b style="color: #DC7633;">{{ project.date }} | </b> <span class="title">{{ project.title }}</span>
+  {% if project.type == "publication" %}
+    <b style="color: rgb(137, 43, 226);"><i class="fa-regular fa-file-lines fa-bounce"></i></b>
+  {% endif %}
+  {% if project.type == "news" %}
+    <b style="color: rgb(137, 43, 226);"><i class="fa-regular fa-newspaper"></i></b>
+  {% endif %}
+  {% if project.type == "award" %}
+    <b style="color: rgb(137, 43, 226);"><i class="fa-regular fa-star"></i></b>
+  {% endif %}
+  <b style="color: #DC7633;">{{ project.date }} | </b> <span class="title">{{ project.title }}</span> 
   <!-- {% if project.url || project.code || project.article || project.paper %}
     <a href="{{ project.url || project.code || project.article || project.paper }}" class="preview-image" style="background-image: url('{{ "/images/projects/" | append: project.image | relative_url }}')"></a> -->
   <!-- {% else %}

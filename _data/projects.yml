@@ -1,12 +1,19 @@
+- title: New preprint alert! Can LLMs simulate humans in conversations? Find out <a href='https://arxiv.org/abs/2409.08330' target='_blank'>here</a>!.
+  date: Sep 2024
+  highlight: 1
+  type: publication
+
 - title: Started Postdoc at <a href='https://www.si.umich.edu' target='_blank'>UMSI</a> under <a href='https://jurgens.people.si.umich.edu' target='_blank'>Prof David Jurgens</a>!.
   date: May 2024
   highlight: 1
+  type: news
 
 - title: Presented our work at the <a href='https://event.india.acm.org/arcs/home/' target='_blank'>ACM ARCS symposium</a> held at NISER Bhubaneswar.
   # url: https://event.india.acm.org/arcs/home/
   poster: assets/ACM-ARCS-2024.pdf
   date: Feb 2024
   highlight: 2
+  type: news
 
 - title: Gave a tutorial on AI for Mental Health at the <a href='http://icon2023.unigoa.ac.in' target='_blank'>ICON 2023</a> conference held in Goa.
   url: https://ai4mh.github.io
@@ -14,10 +21,12 @@
   slides: https://ai4mh.github.io/AI4MH_Tutorial.pdf
   date: Dec 2023
   highlight: 3
+  type: news
 
 - title: Received Microsoft Travel Grant to present our <a href='https://2023.emnlp.org' target='_blank'>EMNLP 2023</a> paper at Singapore.
   date: Nov 2023
   highlight: 4
+  type: award
 
 # - title: DuckDB WASM
 #   url: https://duckdb.org/2021/10/29/duckdb-wasm.html
