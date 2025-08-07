@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2025-04-24
+layout: post
+type: lecture
+slug: UBonn
+description: On “Affective Traits of Natural Language” 
+title: Lamarr Institute NLProc Colloquium 2025
+venue: University of Bonn, Germany
+# wordpress_id: 188
+tags:
+- UBonn
+---

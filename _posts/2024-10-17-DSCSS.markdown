@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2024-10-17
+layout: post
+type: talk
+slug: DS/CSS
+description: Talk on “Affective Traits of Natural Language"  
+title: Data Science/Computational Social Science (DS/CSS) seminar series
+venue: University of Michigan, USA
+# wordpress_id: 188
+tags:
+- DS/CSS
+---

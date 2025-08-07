@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2024-02-07
+layout: post
+type: talk
+slug: ACM
+description: Lightning Talk and Poster Presentation  
+title: ACM-India’s Symposium for Academic Research and Careers for Students
+venue: NISER Bhubhaneshwar, India
+# wordpress_id: 188
+tags:
+- ACM
+---

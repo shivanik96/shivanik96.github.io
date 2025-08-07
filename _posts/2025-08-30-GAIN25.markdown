@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2025-08-30
+layout: post
+type: talk
+slug: UniMoral
+description: Science Slam about "Moral Reasoning using UniMoral"
+title: Annual German Academic International Network (GAIN) Conference 
+venue: Boston, USA
+# wordpress_id: 188
+tags:
+- GAIN
+---

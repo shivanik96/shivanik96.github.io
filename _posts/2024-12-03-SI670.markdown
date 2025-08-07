@@ -1,0 +1,13 @@
+---
+layout: post
+date: 2024-12-03
+layout: post
+type: lecture
+slug: SI670
+description: On “Machine Learning for Sarcasm Analysis” 
+title: Applied Machine Learning course (SI-670)
+venue: University of Michigan, USA
+# wordpress_id: 188
+tags:
+- SI670
+---
